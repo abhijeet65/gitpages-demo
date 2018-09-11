@@ -1,0 +1,16 @@
+{
+  "name": "java",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy":"gh-pages -d java"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://starboy21.github,io/gitpages-demo"
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
