@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy":"gh-pages -d java"
+    "deploy":"gh-pages --d java"
   },
   "keywords": [],
   "author": "",
